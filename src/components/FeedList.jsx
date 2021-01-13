@@ -9,4 +9,7 @@
 	// destructure photos from props
 	// iterate over the data and map each photo data to a FeedItem
 
+// Exercise 6: Provide Context
+    // pull the photos out of the context instead of the props
+
 import React from 'react';

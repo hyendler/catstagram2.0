@@ -48,11 +48,12 @@ body {
 
 .ImageUploaderForm {
     display: flex;
+    padding-bottom: 20px;
 }
 
 .ImageUploaderForm input {
     flex-grow: 1;
-    padding: 5px;
+    padding: 10px;
 }
 
 .ImageUploaderForm button {
